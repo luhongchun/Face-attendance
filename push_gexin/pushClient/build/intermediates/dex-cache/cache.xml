@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_41d6b2d625bd2dc9a3596a74cba01e1c6a2ae460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_dd1433b1283697c1804f3ab939452729832cc56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_a46de34f766d3b0f4f6ad4ade4bfaf2bf8b06331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_49f3568c840f876151e877685cee286f9bd6f37c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_a2b5b4491a8a9ba43be5a3c8ba8abe2b43632bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_6b150d3a9981844a2a251b532639b6feae4d0e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\json_simple-1.1_c5b7f026826cdd54981787d2ae102dd964666972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_6e19730e12b52bbe108e400e840b8f93575587a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ce89fa2a3effae6bf4e1fdb8cdcaccd17d8ec534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.getui\sdk\2.12.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fa4977e45f6260d991bf537680fde315bdf1605e">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.getui-sdk-2.12.4.0_95f642a102c5e9cd9498915bf90a97cd85ab3aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_2882afa341462d084392423aeb07bdfdbc4ae218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\face\push_gexin\pushClient\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\face\push_gexin\pushClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_2a4ce5a068a7e69657689ff826cd38a8e4168d1a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bpush_return_btn.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-hdpi\\bpush_return_btn.png"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bpush_list_item_bg.9.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-hdpi\\bpush_list_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\layout_custom_activity.xml.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\layout\\custom_activity.xml"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\layout_bpush_media_list.xml.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\layout\\bpush_media_list.xml"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bpush_message_prompt.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-hdpi\\bpush_message_prompt.png"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bpush_top_bg.9.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-hdpi\\bpush_top_bg.9.png"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bpush_lapp_notification_status_icon.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-hdpi\\bpush_lapp_notification_status_icon.png"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\layout_bpush_download_progress.xml.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\layout\\bpush_download_progress.xml"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\layout_bpush_setundistur_time.xml.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\layout\\bpush_setundistur_time.xml"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\layout_bpush_lapp_notification_layout.xml.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\layout\\bpush_lapp_notification_layout.xml"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_custom_builder.xml.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\layout\\notification_custom_builder.xml"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\layout_bpush_media_list_item.xml.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\layout\\bpush_media_list_item.xml"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_simple_notification_icon.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-hdpi\\simple_notification_icon.png"
+    },
+    {
+        "merged": "E:\\face\\PushClient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\face\\PushClient\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

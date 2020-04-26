@@ -1,0 +1,2 @@
+1.¹Ì¶¨IP³éÖ¡ÃüÁî£ºffmpeg -i rtsp://admin:ws20130620@192.168.1.96:554/11/main -f image2 -r 1 ./s%08d.jpg
+2.ÔÆÌ¨³éÖ¡ÃüÁî£ºffmpeg -i rtsp://192.168.21.204/main -f image2 -r 1 ./s%08d.jpg

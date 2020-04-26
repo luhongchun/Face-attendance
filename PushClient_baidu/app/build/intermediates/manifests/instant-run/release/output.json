@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":58,"versionName":"5.6.0","enabled":true,"outputFile":"apps-release-unsigned.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.face.demo","split":"","minSdkVersion":"11"}}]

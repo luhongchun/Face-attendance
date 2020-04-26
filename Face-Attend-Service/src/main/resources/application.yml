@@ -1,0 +1,23 @@
+server:
+  port: 8202
+spring:
+  application:
+    name: Face-Service
+  datasource:
+    #url: jdbc:mysql://569a63ee27f02.sh.cdb.myqcloud.com:7259/daily?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
+    #url: jdbc:mysql://218.61.208.68:3306/face?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
+    url: jdbc:mysql://localhost:3306/face?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    #password: PublicData3306
+    password: 
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://218.61.208.69:8761/eureka/
+    eureka-server-read-timeout-seconds: 30
+    eureka-server-connect-timeout-seconds: 10
